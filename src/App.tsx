@@ -1,6 +1,6 @@
 const App = () => {
   return (
-    <div>Nigger</div>
+    <p>test</p>
   );
 }
 
